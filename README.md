@@ -1,5 +1,5 @@
 
-<h4>Hi, I'm Javis, an <a href="https://www.linkedin.com/in/awajavis/">I’m an IT professional </a> specializing in helpdesk support, troubleshooting, and user training. I’m passionate about solving technical challenges and enhancing user experiences. I enjoy sharing knowledge through automation and documentation. Let’s connect.☺</h4>
+<h4>Hi, I'm Javis, <a href="https://www.linkedin.com/in/awajavis/"> an IT professional </a> specializing in helpdesk support, troubleshooting, and user training. I’m passionate about solving technical challenges and enhancing user experiences. I enjoy sharing knowledge through automation and documentation. Let’s connect.☺</h4>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
