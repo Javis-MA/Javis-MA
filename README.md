@@ -2,7 +2,6 @@
 <h4>Hi, I'm Javis, <a href="https://www.linkedin.com/in/awajavis/"> an IT professional </a> specializing in helpdesk support, troubleshooting, and user training. I’m passionate about solving technical challenges and enhancing user experiences. I enjoy sharing knowledge through automation and documentation. Let’s connect.☺</h4>
 
 <h2>👨‍💻 Founder of Wecode Designs:</h2>
-![image](https://github.com/user-attachments/assets/8f753592-cd7c-4e7b-b651-18fcd2feb16b)
  Hi, I'm Javis, <a href="https://www.linkedin.com/in/awajavis/"> an IT professional </a> specializing in helpdesk support, troubleshooting, and user training. I’m passionate about solving technical challenges and enhancing user experiences. I enjoy sharing knowledge through automation and documentation. Let’s connect.☺ https://github.com/javis-ma/osticket-prereqs
  
 
