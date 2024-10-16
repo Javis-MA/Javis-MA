@@ -1,4 +1,4 @@
-## Hi, I’m Javis Melon Awa! I’m an IT professional specializing in helpdesk support, troubleshooting, and user training. I’m passionate about solving technical challenges and enhancing user experiences. I enjoy sharing knowledge through automation and documentation. Let’s connect.
+Hi, I’m <b>Javis Melon Awa!</b> I’m an IT professional specializing in helpdesk support, troubleshooting, and user training. I’m passionate about solving technical challenges and enhancing user experiences. I enjoy sharing knowledge through automation and documentation. Let’s connect.
 
 <!--
 **Javis-MA/Javis-MA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
