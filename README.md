@@ -5,7 +5,7 @@
  - <b> Here’s a step-by-step guide to installing XAMPP on your computer so you can host websites on your localhost:</b>
  
  - [XAMPP-Setup: Download and Installation](https://github.com/javis-ma/XAMPP-Setup)
- - [osTicket: Post-Installation Configuration](https://github.com/javis-ma/post-install-config)
+ - [XAMPP: WebProject](https://github.com/javis-ma/WebProject)
  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
