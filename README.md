@@ -2,7 +2,10 @@
 <h4>Hi, I'm Javis, <a href="https://www.linkedin.com/in/awajavis/"> an IT professional </a> specializing in helpdesk support, troubleshooting, and user training. I’m passionate about solving technical challenges and enhancing user experiences. I enjoy sharing knowledge through automation and documentation. Let’s connect.☺</h4>
 
 <h2>👨‍💻WebDev-On-Localhost:</h2>
- Here’s a step-by-step guide to installing XAMPP on your computer so you can host websites on your localhost:
+ - <b> Here’s a step-by-step guide to installing XAMPP on your computer so you can host websites on your localhost:</b>
+ 
+ - [XAMPP-Setup: Download and Installation](https://github.com/javis-ma/XAMPP-Setup)
+ - [osTicket: Post-Installation Configuration](https://github.com/javis-ma/post-install-config)
  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
